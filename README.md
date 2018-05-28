@@ -1,0 +1,2 @@
+# NMSU Python/ Pandas Workshop 2018
+### This repository will be the standing resource for the NMSU RISE-STARTUP sponsored workshop that I taught in May, 2018.  I remixed an excellent kaggle tutorial on the pandas library that can be found [here](https://www.kaggle.com/residentmario/indexing-selecting-assigning) and worked with the pollutants.csv file that can be downloaded from kaggle [here](https://www.kaggle.com/sohier/mussel-watch/data)
